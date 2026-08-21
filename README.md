@@ -1,4 +1,4 @@
 # learndemo
 this is my first repo.
 <br>
-author - prathmesh hudale
+author - prathmesh hudale (Developer)
